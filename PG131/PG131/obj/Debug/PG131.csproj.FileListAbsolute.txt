@@ -1,0 +1,7 @@
+C:\Users\christopher benben\THE-TECH-ACADEMY-BASIC-C-SHARP-PROJECT\PG131\PG131\bin\Debug\PG131.exe.config
+C:\Users\christopher benben\THE-TECH-ACADEMY-BASIC-C-SHARP-PROJECT\PG131\PG131\bin\Debug\PG131.exe
+C:\Users\christopher benben\THE-TECH-ACADEMY-BASIC-C-SHARP-PROJECT\PG131\PG131\bin\Debug\PG131.pdb
+C:\Users\christopher benben\THE-TECH-ACADEMY-BASIC-C-SHARP-PROJECT\PG131\PG131\obj\Debug\PG131.csprojAssemblyReference.cache
+C:\Users\christopher benben\THE-TECH-ACADEMY-BASIC-C-SHARP-PROJECT\PG131\PG131\obj\Debug\PG131.csproj.CoreCompileInputs.cache
+C:\Users\christopher benben\THE-TECH-ACADEMY-BASIC-C-SHARP-PROJECT\PG131\PG131\obj\Debug\PG131.exe
+C:\Users\christopher benben\THE-TECH-ACADEMY-BASIC-C-SHARP-PROJECT\PG131\PG131\obj\Debug\PG131.pdb
