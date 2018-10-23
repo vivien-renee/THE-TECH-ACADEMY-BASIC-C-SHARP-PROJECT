@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,8 +12,11 @@ namespace PG165
         public void findYear ()
 
         {
+            bool validAnswer = false;
             Console.WriteLine("What is your age?");
             int age = Convert.ToInt32(Console.ReadLine());
+            validAnswer = int.TryParse(Console.ReadLine(), out age);
+
 
             if (age < 0)
             {
@@ -25,6 +28,12 @@ namespace PG165
                 throw new Exception();
             }
 
+            if (!validAnswer)
+
+
+            {
+                Console.WriteLine("Something is not working, try back later");
+            }
             
 
 
@@ -42,3 +51,4 @@ namespace PG165
 
     }
 }
+
