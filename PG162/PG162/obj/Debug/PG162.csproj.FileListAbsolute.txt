@@ -1,0 +1,7 @@
+C:\Users\christopher benben\THE-TECH-ACADEMY-BASIC-C-SHARP-PROJECT\PG162\PG162\obj\Debug\PG162.csprojAssemblyReference.cache
+C:\Users\christopher benben\THE-TECH-ACADEMY-BASIC-C-SHARP-PROJECT\PG162\PG162\obj\Debug\PG162.csproj.CoreCompileInputs.cache
+C:\Users\christopher benben\THE-TECH-ACADEMY-BASIC-C-SHARP-PROJECT\PG162\PG162\bin\Debug\PG162.exe.config
+C:\Users\christopher benben\THE-TECH-ACADEMY-BASIC-C-SHARP-PROJECT\PG162\PG162\bin\Debug\PG162.exe
+C:\Users\christopher benben\THE-TECH-ACADEMY-BASIC-C-SHARP-PROJECT\PG162\PG162\bin\Debug\PG162.pdb
+C:\Users\christopher benben\THE-TECH-ACADEMY-BASIC-C-SHARP-PROJECT\PG162\PG162\obj\Debug\PG162.exe
+C:\Users\christopher benben\THE-TECH-ACADEMY-BASIC-C-SHARP-PROJECT\PG162\PG162\obj\Debug\PG162.pdb
