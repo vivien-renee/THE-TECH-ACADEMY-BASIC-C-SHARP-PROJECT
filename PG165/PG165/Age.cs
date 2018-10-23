@@ -13,10 +13,14 @@ namespace PG165
 
         {
             bool validAnswer = false;
-            Console.WriteLine("What is your age?");
-            int age = Convert.ToInt32(Console.ReadLine());
-            validAnswer = int.TryParse(Console.ReadLine(), out age);
-
+            int age = 0;
+            while (!validAnswer)
+            {
+                Console.WriteLine("What is your age?");
+                //int age = Convert.ToInt32(Console.ReadLine());
+                validAnswer = int.TryParse(Console.ReadLine(), out age);
+                if (!validAnswer) Console.WriteLine("That's not a valid number, try again later");
+            }
 
             if (age < 0)
             {
@@ -28,13 +32,8 @@ namespace PG165
                 throw new Exception();
             }
 
-            if (!validAnswer)
-
-
-            {
-                Console.WriteLine("Something is not working, try back later");
-            }
             
+
 
 
 
@@ -51,4 +50,3 @@ namespace PG165
 
     }
 }
-
