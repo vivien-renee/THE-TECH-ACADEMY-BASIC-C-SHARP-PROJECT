@@ -13,7 +13,7 @@ namespace PG162
             
             const string BossName = "Vivien";
             Console.WriteLine("The boss today is {0}", BossName);
-            var person = new Person("Bob", /*"Bobber"*/);
+            var person = new Person("Bob"/*, "Bobber"*/);
             person.SayName();
 
             
